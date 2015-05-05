@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Idiot::VERSION
   spec.authors       = ["<cheeseandpepper>"]
   spec.email         = ["<cheeseandpepper@gmail.com>"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{TODO: Coming soon. Required.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
